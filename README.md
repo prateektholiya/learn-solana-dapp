@@ -1,6 +1,6 @@
 # Figment Learn - Solana Pathway
 
-We made this app to help developers learn about Solana.
+We made this app to help developers learn about Solana Blockchain.
 
 You will build a simple web client using Solana's JS SDK to interact with a Solana program (aka smart contract) that you will deploy using the Solana CLI.
 

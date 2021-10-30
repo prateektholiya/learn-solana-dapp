@@ -12,7 +12,7 @@ export const getNodeWsURL = () => {
     : process.env.REACT_APP_DEVNET_URL;
 }
 
-// Helper for generating an account URL on Solana Explorer
+// Helper for generating up account URL on Solana Explorer
 export const getAccountExplorerURL = (address) => {
   return `https://explorer.solana.com/address/${address}?cluster=devnet`;
 }
